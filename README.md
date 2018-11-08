@@ -32,7 +32,7 @@ git clone https://github.com/AbdulmajeedAlOmari/log-analysis-project.git log-ana
 cd log-analysis-project
 ```
 2. You need to install "**psycopg2**" module by running the following command: `pip3 install psycopg2`
-3. Move the "**newsdata.sql**" to your project folder "**log-analysis-project**" folder.
+3. Move the "**newsdata.sql**" to your project folder "**log-analysis-project**".
 4. Load the data from the “newsdata.sql” by using the following command: `psql -d news -f newsdata.sql`
 5. Connect to the database using the command: `psql -d news`
 6. Now, you can run the python script using the command: `python log-analysis.py`
