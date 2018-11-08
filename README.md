@@ -33,7 +33,7 @@ cd log-analysis-project
 6. Now, you can run the python script using the command: `python log-analysis.py`
 
 ## Sample Output
-You can visit "[sample_output](./sample_output)" to see the output of the python script "**log-analysis.py**"
+You can visit "[sample_output](./sample_output.txt)" to see the output of the python script "**log-analysis.py**"
 
 ## References
 I used the following references to help me finish this project:
