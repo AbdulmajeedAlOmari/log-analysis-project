@@ -48,5 +48,3 @@ I used the following references to help me finish this project:
 - [Creating and using subqueries](https://community.modeanalytics.com/sql/tutorial/sql-subqueries/)
 - [Format dates](https://stackoverflow.com/questions/2158347/how-do-i-turn-a-python-datetime-into-a-string-with-readable-format-date)
 - [Round a number](https://www.tutorialspoint.com/python/number_round.htm)
-
-## Licences
