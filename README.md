@@ -5,6 +5,11 @@ The database contains newspaper articles, as well as the web server log for the 
 
 The program you write in this project will run from the command line. It won't take any input from the user. Instead, it will connect to that database, use SQL queries to analyze the log data, and print out the answers to some questions.
 
+_This project is required for Full-Stack Nanodegree program._
+
+It was developed by:
+> Abdulmajeed Alomari
+
 ## Installation
 - Download and install [Vagrant](https://www.vagrantup.com/downloads.html).
 - Download and install [VirtualBox](https://www.virtualbox.org/wiki/Downloads).
